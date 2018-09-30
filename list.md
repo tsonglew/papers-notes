@@ -6,3 +6,7 @@
 * [TStarBots: Defeating the Cheating Level Builtin AI in StarCraft II in the Full Game](https://arxiv.org/pdf/1809.07193.pdf)
 
 # Algorithms
+
+## Consensus
+
+[In Search of an Understandable Consensus Algorithm(Extended Version)]()
