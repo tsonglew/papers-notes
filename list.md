@@ -1,5 +1,9 @@
 # AI
 
+## GAN
+
+* [LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS](https://openreview.net/pdf?id=B1xsqj09Fm)
+
 ## StarCraft
 
 * [StarCraft II: A New Challenge for Reinforcement Learning](https://arxiv.org/pdf/1708.04782.pdf)
