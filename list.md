@@ -3,6 +3,7 @@
 ## GAN
 
 * [LARGE SCALE GAN TRAINING FOR HIGH FIDELITY NATURAL IMAGE SYNTHESIS](https://openreview.net/pdf?id=B1xsqj09Fm)
+* [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding](https://arxiv.org/pdf/1810.04805.pdf)
 
 ## StarCraft
 
