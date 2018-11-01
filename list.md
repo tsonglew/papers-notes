@@ -1,3 +1,5 @@
+[How to Read a Paper](http://ccr.sigcomm.org/online/files/p83-keshavA.pdf)
+
 # AI
 
 ## GAN
