@@ -16,4 +16,10 @@
 
 ## Consensus
 
-[In Search of an Understandable Consensus Algorithm(Extended Version)](https://raft.github.io/raft.pdf)
+* [In Search of an Understandable Consensus Algorithm(Extended Version)](https://raft.github.io/raft.pdf)
+
+# Google 
+
+* [The Google File System](http://static.googleusercontent.com/media/research.google.com/en/archive/bigtable-osdi06.pdf)
+* [Bigtable: A Distributed Storage System for Structured Data](https://static.googleusercontent.com/media/research.google.com/en//archive/bigtable-osdi06.pdf)
+* [MapReduce: Simplified Data Processing on Large Clusters](https://static.googleusercontent.com/media/research.google.com/en//archive/mapreduce-osdi04.pdf)
